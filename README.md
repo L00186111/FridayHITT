@@ -1,2 +1,2 @@
-# This Repositary for my LAB1 Project purpose.
+# Cloud Formation Stack for FriadyHITT small Company.
 ## I will work on this project by my own.
