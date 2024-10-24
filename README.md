@@ -1,4 +1,4 @@
-# Cloud Formation Stack for FriadyHITT small Company.
+# Cloud Formation Stack for Friady_HITT small Company.
 ## Description
 
 ## Methods
