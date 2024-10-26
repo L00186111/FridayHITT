@@ -46,6 +46,10 @@ https://www.youtube.com/watch?v=9NWTcumxf-4
 https://www.geeksforgeeks.org/creating-ec2-instance-with-aws-cli/ 
 [Accessed 25 Oct 2024].
 
+## Appendices
+![EC2 Connect with Secuirity](https://github.com/user-attachments/assets/c2d839ae-444f-4253-8936-c7c4f2361145)
+
+
 
 
 
