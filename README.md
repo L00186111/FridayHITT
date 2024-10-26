@@ -20,7 +20,7 @@ Amazon Web Service:
 * The Lab1 project users to tasks was completed by AWS CLI and creating all connection made easier by small company project (in my case Friday_Hitt).
 
 ## Conclusion
-###Launching an EC2 instance using AWS CLI provides greater control and flexibility for automating cloud infrastructure. To understand of how AWS operates behind the scenes, whether you’re managing a single instance or deploying an entire fleet of servers, AWS CLI is an invaluable tool for streamlining your cloud operations. Further reading by (Kim ‘The DevOps Handbook’, 2021) indicated how cloud system and AWS Server tool help to do large task and control from local machine with cloud connection.Overall, in this practical lab1 work is bring knowledge we learn to apply in small project to do by real world Amazon Service. it was very complicated to do by myself as a new learner but found and learn a lots of new tools and technique to develop the DevOps engineer path.
+Launching an EC2 instance using AWS CLI provides greater control and flexibility for automating cloud infrastructure. To understand of how AWS operates behind the scenes, whether you’re managing a single instance or deploying an entire fleet of servers, AWS CLI is an invaluable tool for streamlining your cloud operations. Further reading by (Kim ‘The DevOps Handbook’, 2021) indicated how cloud system and AWS Server tool help to do large task and control from local machine with cloud connection.Overall, in this practical lab1 work is bring knowledge we learn to apply in small project to do by real world Amazon Service. it was very complicated to do by myself as a new learner but found and learn a lots of new tools and technique to develop the DevOps engineer path.
 
 ## Reference
 * K. Kim, J. Humble, P. Debois, J. Willis, N. Forsfren (2021). _The DevOps Handbook_, 2nd Edition. IT Revolution.
@@ -49,7 +49,8 @@ https://www.geeksforgeeks.org/creating-ec2-instance-with-aws-cli/
 ## Appendices
 Connected EC2 Instances with Security and have been 'ping' and 'curl' for tested
 ![EC2 Connect with Secuirity](https://github.com/user-attachments/assets/c2d839ae-444f-4253-8936-c7c4f2361145)
-###Running Public & Private EC2 Instances
+
+Running Public & Private EC2 Instances
 
 
 
