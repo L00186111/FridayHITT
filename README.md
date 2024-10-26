@@ -8,6 +8,11 @@ Amazon Web Service:
 * Self-Research and other notes provided by lecturer has been read through and uses as learning purpose. Using a Private Gateway(Nat gateway)service by AWS.
 
 ## Methods
+* AWS service uses varies different type of method (API) tools to perform their connectivity to server for the business or the project.
+* In our Lab1 project we will use ec2, IAM user, Network with VPC and Security connection via Gateway service.
+* An account for AWS root user was created. The account enabled most features but did not allow groups people that add only specific task to access (in my case only S3 I give permission).
+* This Individual tasks/lab1 were progressed through the AWS system over a number of days implementing a small application run by instance via VPC connection.
+
 ## Results 
 ## Conclusion
 * help
