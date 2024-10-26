@@ -53,10 +53,35 @@ Connected EC2 Instances with Security and have been 'ping' and 'curl' for tested
 Running Public & Private EC2 Instances
 ![Running EC2 intances](https://github.com/user-attachments/assets/9144a5aa-0cfc-41d7-8086-f2e717a62d06)
 
+Created Users IAM (Identity Access Management)
+![Created Users IAM](https://github.com/user-attachments/assets/23b80420-7e63-4d11-8847-148a40e86a0b)
 
+Created cloud formation stack
+![Created cloud formation stack](https://github.com/user-attachments/assets/80ff75cc-65a1-467b-83ea-f73be718a513)
 
+Created VPC (Virtual Private Connection)
+![Created VPC](https://github.com/user-attachments/assets/12fc4992-b9bb-470e-a98a-de476c594f53)
 
+Created Public and Private Subnet
+![Created Subnet ](https://github.com/user-attachments/assets/eaf9347c-acbe-4624-aa52-bdbf55280ca2)
 
+Created Inter Gateway and attached
+![Created Inter Gateway ans attached](https://github.com/user-attachments/assets/f678f04a-ae21-49bb-8f84-19fb41cdf2db)
+
+Created NatGateway for Private Subnet
+![Created NatGateway](https://github.com/user-attachments/assets/d34a6c2a-15a9-403b-9d9f-5c53c7628896)
+
+Created Route table & Associated
+![Created Route table   Associated](https://github.com/user-attachments/assets/a508bd7f-760c-4bf5-9a0a-a569ebb496d1)
+
+Created Demo group user access on s3
+![Created Demo group user access on s3](https://github.com/user-attachments/assets/4ddabd74-14b9-4969-9a0d-70c4eacf8223)
+
+Connect with Private route table with access
+![connect with Private route table with access](https://github.com/user-attachments/assets/c7638f96-3ca0-4108-a264-b30d73cd4e75)
+
+Public route save for all 
+![Public route save for all ](https://github.com/user-attachments/assets/e60105a6-58be-47db-a9e4-ffe501cd0e85)
 
 
 
