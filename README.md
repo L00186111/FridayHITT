@@ -47,7 +47,9 @@ https://www.geeksforgeeks.org/creating-ec2-instance-with-aws-cli/
 [Accessed 25 Oct 2024].
 
 ## Appendices
+Connected EC2 Instances with Security and have been pin for tested
 ![EC2 Connect with Secuirity](https://github.com/user-attachments/assets/c2d839ae-444f-4253-8936-c7c4f2361145)
+
 
 
 
