@@ -1,6 +1,11 @@
 # Cloud Formation Stack for Friady_HITT small Company.
 ## Description
-#### The purpose of this Lab1 is to describe the introduction of Cloud Computing where We are using AWS Service for Infrastructure as a Code for this Module.
+#### The purpose of this Lab1 is to describe the introduction of Cloud Computing where We are using AWS Service for Infrastructure as a Code for this Module. I will use a free AWS service for this module which provided by root user and connected with my local machine with AWS cloud service. We will make an ec2 instance with 1 of each subnet (private and public) with a secure gateway and show the routing table.
+Amazon Web Service:
+* An instance Elastic Compute Cloud (ec2) will be created using the AWS tool to use cloud formation stack. Its core service to control a virtual machine for AWS.
+* Some of features will be add on to develop by AWS tool and format for live server to run. Such as subnet to accessible from internet.
+* Further or external resources will use to do this lab1.need to create a Gateway access for security purpose.
+* Self-Research and other notes provided by lecturer has been read through and uses as learning purpose. Using a Private Gateway(Nat gateway)service by AWS.
 
 ## Methods
 ## Results 
