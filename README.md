@@ -5,7 +5,8 @@ Amazon Web Service:
 * An instance Elastic Compute Cloud (ec2) will be created using the AWS tool to use cloud formation stack. Its core service to control a virtual machine for AWS.
 * Some of features will be add on to develop by AWS tool and format for live server to run. Such as subnet to accessible from internet.
 * Further or external resources will use to do this lab1.need to create a Gateway access for security purpose.
-* Self-Research and other notes provided by lecturer has been read through and uses as learning purpose. Using a Private Gateway(Nat gateway)service by AWS.
+* Self-Research and other notes provided by lecturer has been read through and uses as learning purpose. Using a Private Gateway(Nat gateway)service by AWS.![Created VPC](https://github.com/user-attachments/assets/5ffbc071-876b-462b-9536-d41bb9407802)
+
 
 ## Methods
 * AWS service uses varies different type of method (API) tools to perform their connectivity to server for the business or the project.
