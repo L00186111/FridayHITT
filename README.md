@@ -10,14 +10,18 @@ Amazon Web Service:
 
 ## Methods
 * AWS service uses varies different type of method (API) tools to perform their connectivity to server for the business or the project.
-* In our Lab1 project we will use ec2, IAM user, Network with VPC and Security connection via Gateway service.
+* In our Lab1 project we will use ec2, IAM user, Network with VPC and Security connection via Gateway service.![Created Users IAM](https://github.com/user-attachments/assets/3fdd2e7e-a05d-4b97-80bf-ac84dc8dffd4)
+
 * An account for AWS root user was created. The account enabled most features but did not allow groups people that add only specific task to access (in my case only S3 I give permission).
-* This Individual tasks/lab1 were progressed through the AWS system over a number of days implementing a small application run by instance via VPC connection.
+* This Individual tasks/lab1 were progressed through the AWS system over a number of days implementing a small application run by instance via VPC connection.![Createed Subnet ](https://github.com/user-attachments/assets/9ea38944-61f4-4f12-93f2-754f4226a038)
+
 
 ## Results
-* To connect and API add for project has bee easier by AWS Servicer connection
+* To connect and API add for project has bee easier by AWS Servicer connection![connect with Private route table with access](https://github.com/user-attachments/assets/2b7e21c1-2bcd-4fb2-9a96-8c9b51df0166)
+
 * The creation of AWS ec2 instance and other network connection user tasks was successful and The AWS Cli remote connection makes easier to do the task
-* The Lab1 project users to tasks was completed by AWS CLI and creating all connection made easier by small company project (in my case Friday_Hitt)
+* The Lab1 project users to tasks was completed by AWS CLI and creating all connection made easier by small company project (in my case Friday_Hitt)![Public route save for all ](https://github.com/user-attachments/assets/c3320e88-6833-4ce5-ade3-375d42a1d525)
+
 
 ## Conclusion
 ###Launching an EC2 instance using AWS CLI provides greater control and flexibility for automating cloud infrastructure. To understand of how AWS operates behind the scenes, whether you’re managing a single instance or deploying an entire fleet of servers, AWS CLI is an invaluable tool for streamlining your cloud operations. Further reading by (Kim ‘The DevOps Handbook’, 2021) indicated how cloud system and AWS Server tool help to do large task and control from local machine with cloud connection.Overall, in this practical lab1 work is bring knowledge we learn to apply in small project to do by real world Amazon Service. it was very complicated to do by myself as a new learner but found and learn a lots of new tools and technique to develop the DevOps engineer path.
