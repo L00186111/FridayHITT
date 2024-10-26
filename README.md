@@ -20,7 +20,6 @@ Amazon Web Service:
 
 ## Conclusion
 ### Launching an EC2 instance using AWS CLI provides greater control and flexibility for automating cloud infrastructure. To understand of how AWS operates behind the scenes, whether you’re managing a single instance or deploying an entire fleet of servers, AWS CLI is an invaluable tool for streamlining your cloud operations. Further reading by (Kim ‘The DevOps Handbook’, 2021) indicated how cloud system and AWS Server tool help to do large task and control from local machine with cloud connection.
-
 Overall, in this practical lab1 work is bring knowledge we learn to apply in small project to do by real world Amazon Service. it was very complicated to do by myself as a new learner but found and learn a lots of new tools and technique to develop the DevOps engineer path.
 
 ## Reference
