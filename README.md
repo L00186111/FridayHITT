@@ -51,6 +51,8 @@ Connected EC2 Instances with Security and have been 'ping' and 'curl' for tested
 ![EC2 Connect with Secuirity](https://github.com/user-attachments/assets/c2d839ae-444f-4253-8936-c7c4f2361145)
 
 Running Public & Private EC2 Instances
+![Running EC2 intances](https://github.com/user-attachments/assets/9144a5aa-0cfc-41d7-8086-f2e717a62d06)
+
 
 
 
